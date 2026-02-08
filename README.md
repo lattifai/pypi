@@ -18,4 +18,5 @@ extra-index-url = https://lattifai.github.io/pypi/simple/
 
 ## Packages
 
+- **lattifai-captions** - Caption/subtitle processing library
 - **lattifai-core** - Core alignment engine for LattifAI
